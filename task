@@ -1,0 +1,18 @@
+task-1:
+1. create a basic Html page structure with the doctype, html, head, meta, title and body tags 
+2. the title will be "My Travel Blog"
+3. Add comments to the code to explain each section, For example "this is the head section"
+Task-2: 
+1. create a heading tag that will have the text"My Travel Blog'
+2. Format the text in your heading tag using italic 
+task-3:
+1. create a div and inside the div create a paragraph.
+2. Add a button having the text "Read More"
+task-4:
+1. create a span tag which will be outside the div. it will have the text "What i bought"
+2. format the text in your span tag bold.
+3. create an ordered list of things you bought from the place you visited.
+4. create another span tag with the text "My Favourite food" and make it bold. 
+5. create an unordered list of your favourite food you ate in that place.
+task-5:
+1. insert an image of your favourite food using the img and add the src, alt, width, and height attributes to it.
